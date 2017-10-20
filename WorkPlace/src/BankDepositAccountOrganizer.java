@@ -83,7 +83,7 @@ public class BankDepositAccountOrganizer {
 								}
 
 							}
-
+							System.out.println("Test this");
 							if (infoArray[2].equals("SAV")) {
 
 								for (ParentAccountVO parentAccountVO : data2) {
