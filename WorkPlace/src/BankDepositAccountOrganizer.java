@@ -83,7 +83,7 @@ public class BankDepositAccountOrganizer {
 								}
 
 							}
-							System.out.println("from test branch");
+							System.out.println("from test branch second commit");
 							if (infoArray[2].equals("SAV")) {
 
 								for (ParentAccountVO parentAccountVO : data2) {
