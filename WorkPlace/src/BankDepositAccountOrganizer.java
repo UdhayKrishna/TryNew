@@ -83,7 +83,7 @@ public class BankDepositAccountOrganizer {
 								}
 
 							}
-							System.out.println("Main Branch :: Conflicts");
+							System.out.println("Main Branch :: creating conflicts");
 							if (infoArray[2].equals("SAV")) {
 
 								for (ParentAccountVO parentAccountVO : data2) {
